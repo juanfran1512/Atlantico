@@ -1,0 +1,51 @@
+body{
+	background: #ecf0f1;
+} 
+.cabecera-img{
+	width: 100%;
+}
+.navbar {
+border-radius: 0px;
+margin-bottom: 0px;
+}
+/*
+.menu-nav{
+	background-color: #ff3333;
+	color: #ffffff;
+}
+*/
+.btn-info {
+background-color: #0070b9;
+border-color: #010080;
+}
+
+.btn-info:hover, .btn-info:focus{
+background-color: #010080;
+
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    clear: both;
+    padding: 10px;
+    color: #fff;
+    background: #010080;
+    border-top: 7px solid rgb(0, 112, 185);
+}
+
+
+
+.fila{
+	  height: 70px
+}
+.col{
+	width: 200px;
+
+}
+.col_1{
+	height: 50px;
+	width: 100px;
+
+}

@@ -1,0 +1,19 @@
+#btnImprimir {
+background: url(../imagenes/btnImprimir.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+width: 60px;
+height: 60px;
+border: 0px;
+margin-top: -10px;
+}
+
+#btnGuia {
+background: url(../imagenes/btnGuia.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+width: 60px;
+height: 60px;
+border: 0px;
+margin-top: -17px;
+}

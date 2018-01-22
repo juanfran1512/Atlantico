@@ -61,7 +61,7 @@ include_once("controlador/conLogin.php");
 	                        <div class="form-group last">
 	                            <div class="col-sm-offset-4 col-sm-8">
 	                                <input type="submit" name="btnLogeo" value="Entrar" class="btn btn-success btn-sm">
-	                                <button type="reset" class="btn btn-default btn-sm">limpiar</button>
+	                                <button type="reset" class="btn btn-default btn-sm">Limpiar</button>
 	                            </div>
 	                        </div>
 	                    </form>
